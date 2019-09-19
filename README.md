@@ -5,7 +5,7 @@ Please report the following to the issue tracker:
 * Suggestions
 * Crashes
 * Quest Issues
-* Or bugs in general
+* Bugs
 
 When reporting, please be sure to specify the version of the modpack that the version is on.
 
